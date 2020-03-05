@@ -1,6 +1,6 @@
 <?php 
     session_start();
-    echo "hola mundo :3"
+    echo "hola mundo :3 :v"
 ?>
 
 <!DOCTYPE html>
