@@ -1,0 +1,15 @@
+html {
+    font-size: 62.5%;
+}
+
+img {
+    max-width: 100%;
+}
+
+.bg {
+    background-image: url(../img/slide-1.jpg);
+    background-position: center;
+    height:100vh;
+    min-height: 60rem;
+}
+
