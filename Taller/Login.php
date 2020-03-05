@@ -1,5 +1,6 @@
 <?php 
     session_start();
+    echo "hola mundo :3"
 ?>
 
 <!DOCTYPE html>
